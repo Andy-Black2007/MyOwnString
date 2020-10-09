@@ -1,0 +1,2 @@
+D:\Programming\C++\My Own StringClass\MyStringClass\Debug\MyStringClass.exe
+D:\Programming\C++\My Own StringClass\MyStringClass\Debug\MyStringClass.pdb
